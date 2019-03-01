@@ -3,5 +3,7 @@
 # Feel free to google "how to generate a random number in ruby"
 
 def roll
-  # code goes here
+  # cod
+  numbers = (1..6)
+  roll = 
 end

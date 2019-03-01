@@ -5,5 +5,5 @@
 def roll
   # cod
   numbers = (1..6)
-  roll = 
+  roll = numbers[rand(6)]
 end
